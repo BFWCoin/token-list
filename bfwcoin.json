@@ -1,0 +1,19 @@
+{
+  "name": "BFWCoin Token List",
+  "timestamp": "2025-06-22T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x86d319A5ac850daf0C801580625973e47A7582C2",
+      "symbol": "BFW",
+      "name": "BFWCoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BFWCoin/token-list/main/blockchains/smartchain/assets/0x86d319A5ac850daf0C801580625973e47A7582C2/logo.png"
+    }
+  ]
+}
