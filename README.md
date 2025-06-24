@@ -56,6 +56,8 @@ This repository is the official token list and metadata for **BFWCoin (BFW$)** o
 
 We value your input to help shape the future of BFWCoin!
 
+By participating, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 ---
 
 ## 💬 Community Discussions
