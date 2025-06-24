@@ -1,0 +1,62 @@
+name: 🎨 Creative Submission
+description: Submit promotional banners, videos, or taglines for BFWCoin and earn BFW$
+title: "[Creative] "
+labels: [creative, contribution]
+assignees:
+  - DreamGHBFWCoin
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🎉 Thanks for your interest in contributing to BFWCoin!
+        Please fill in the details below. Approved contributions may earn you **free BFWCoins**!
+
+  - type: input
+    id: contributor_name
+    attributes:
+      label: Your Name or Alias
+      placeholder: e.g., JaneDoe
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Your Email (Optional)
+      placeholder: e.g., jane@example.com
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of Creative
+      options:
+        - Banner (JPG/PNG)
+        - Video (MP4/Reel)
+        - Tagline / Copywriting
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your submission
+      placeholder: What does it contain? Where is it best used?
+    validations:
+      required: true
+
+  - type: input
+    id: download_link
+    attributes:
+      label: Link to download/view your creative
+      placeholder: e.g., Google Drive, Dropbox, or IPFS URL
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: originality
+    attributes:
+      label: Confirm Originality
+      options:
+        - label: I confirm this submission is original and created by me.
+          required: true
