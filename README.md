@@ -77,7 +77,9 @@ Let's grow the decentralized fashion-tech community — together!
 
 ## 🛠 Build
 
-Use the command below to generate and validate the token list (if using [`bun`](https://bun.sh)):
+To generate and validate the token list from metadata:
+
+### 1. Run locally
 
 ```bash
-bun makelist
+node scripts/makelist.js
