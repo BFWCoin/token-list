@@ -9,6 +9,8 @@
 [![Discussions](https://img.shields.io/github/discussions/BFWCoin/token-list)](https://github.com/BFWCoin/token-list/discussions)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](./CODE_OF_CONDUCT.md)
+[![Build Status](https://github.com/BFWCoin/token-list/actions/workflows/build-tokenlist.yml/badge.svg)](https://github.com/BFWCoin/token-list/actions/workflows/build-tokenlist.yml)
+
 
 
 This repository is the official token list and metadata for **BFWCoin (BFW$)** on Binance Smart Chain.
