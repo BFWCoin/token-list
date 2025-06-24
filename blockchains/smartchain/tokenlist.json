@@ -1,0 +1,22 @@
+{
+  "name": "BFWCoin Token List",
+  "logoURI": "https://raw.githubusercontent.com/BFWCoin/token-list/main/blockchains/smartchain/assets/0x86d319A5ac850daf0C801580625973e47A7582C2/logo.png",
+  "keywords": ["bfwcoin", "fashion", "bsc", "utility-token"],
+  "timestamp": "2025-06-22T18:00:00+05:30",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x86d319A5ac850daf0C801580625973e47A7582C2",
+      "name": "BFWCoin",
+      "symbol": "BFW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BFWCoin/token-list/main/blockchains/smartchain/assets/0x86d319A5ac850daf0C801580625973e47A7582C2/logo.png",
+      "website": "https://BangaloreFashionWeek.in/coin"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
