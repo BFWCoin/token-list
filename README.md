@@ -22,6 +22,7 @@ This repository is the official token list and metadata for BFWCoin (BFW) on Bin
 - 💻 [BFWCoin GitHub](https://github.com/BFWCoin)
 - 👥 [Meet the Team](Team.md)
 - 🖼️ [View Token Logo](./blockchains/smartchain/assets/0x86d319A5ac850daf0C801580625973e47A7582C2/logo.png)
+- 📄 [Token List JSON](./blockchains/smartchain/tokenlist.json)
 
 ## 🛠 Build
 
