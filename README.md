@@ -4,6 +4,8 @@
 [![Stars](https://img.shields.io/github/stars/BFWCoin/token-list?style=social)](https://github.com/BFWCoin/token-list/stargazers)
 [![Forks](https://img.shields.io/github/forks/BFWCoin/token-list?style=social)](https://github.com/BFWCoin/token-list/forks)
 [![Last Commit](https://img.shields.io/github/last-commit/BFWCoin/token-list)](https://github.com/BFWCoin/token-list)
+[![Open Issues](https://img.shields.io/github/issues/BFWCoin/token-list)](https://github.com/BFWCoin/token-list/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/BFWCoin/token-list)](https://github.com/BFWCoin/token-list/pulls)
 
 This repository is the official token list and metadata for **BFWCoin (BFW$)** on Binance Smart Chain.
 
@@ -25,6 +27,8 @@ This repository is the official token list and metadata for **BFWCoin (BFW$)** o
 - `bfwcoin.json` — Token metadata for third-party integrations  
 - `Team.md` — Core team and advisors  
 - `SECURITY.md` — Security guidelines  
+- `CONTRIBUTING.md` — Community contribution guide  
+- `.github/ISSUE_TEMPLATE/` — GitHub issue templates  
 - `README.md` — Project overview  
 - `LICENSE` — MIT license  
 
@@ -38,12 +42,23 @@ This repository is the official token list and metadata for **BFWCoin (BFW$)** o
 - 👥 [Meet the Team](./Team.md)
 - 🖼️ [View Token Logo](./blockchains/smartchain/assets/0x86d319A5ac850daf0C801580625973e47A7582C2/logo.png)
 - 📄 [Token List JSON](./blockchains/smartchain/tokenlist.json)
+- ✍️ [Contribution Guide](./CONTRIBUTING.md)
+
+---
+
+## 📬 Got Ideas or Issues?
+
+- 💡 Have an idea? [Submit a creative promo](../../issues/new?template=creative-submission.yml)
+- 🐞 Found a bug? [Open an issue](../../issues/new)
+- ❓ General questions? [Start a discussion](https://github.com/BFWCoin/token-list/discussions)
+
+We value your input to help shape the future of BFWCoin!
 
 ---
 
 ## 🛠 Build
 
-Use the command below to generate and validate the token list (if using `bun`):
+Use the command below to generate and validate the token list (if using [`bun`](https://bun.sh)):
 
 ```bash
 bun makelist
