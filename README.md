@@ -58,6 +58,20 @@ We value your input to help shape the future of BFWCoin!
 
 ---
 
+## 💬 Community Discussions
+
+Join our [GitHub Discussions](https://github.com/BFWCoin/token-list/discussions) to:
+
+- 📣 Stay updated via **Announcements**
+- ❓ Ask technical or general questions in **Q&A**
+- 💡 Share creative ideas and feedback in **Ideas**
+- 🎨 Showcase promo creatives in **Creatives**
+- 💬 Interact casually with others in **General**
+
+Let's grow the decentralized fashion-tech community — together!
+
+---
+
 ## 🛠 Build
 
 Use the command below to generate and validate the token list (if using [`bun`](https://bun.sh)):
