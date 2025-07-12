@@ -42,7 +42,7 @@ This repository is the official token list and metadata for **BFWCoin (BFW$)** o
 
 ## 🔗 Resources
 
-- 🌐 [Website](https://BangaloreFashionWeek.in/coin)
+- 🌐 [Website](https://bfw.com.co)
 - 🔎 [BscScan Token](https://bscscan.com/token/0x86d319A5ac850daf0C801580625973e47A7582C2)
 - 💻 [BFWCoin GitHub](https://github.com/BFWCoin)
 - 👥 [Meet the Team](./Team.md)
