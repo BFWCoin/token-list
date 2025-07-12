@@ -4,7 +4,7 @@
 
 If you discover a security issue related to the BFWCoin smart contract or this repository, please report it responsibly.
 
-- 📧 Email: [sales@bangalorefashionweek.in](mailto:sales@bangalorefashionweek.in)
-- 🌐 Website: [https://bangalorefashionweek.in/coin](https://bangalorefashionweek.in/coin)
+- 📧 Email: [support@bangalorefashionweek.in](mailto:support@bangalorefashionweek.in)
+- 🌐 Website: [https://bfw.com.co](https://bfw.com.co)
 
 We aim to respond within 48 hours.
