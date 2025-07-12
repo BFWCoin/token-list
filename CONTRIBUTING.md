@@ -16,7 +16,7 @@ We welcome contributions in the following categories:
   - Images: ≤ 2MB  
   - Videos: ≤ 20MB
 - **Branding Guidelines**: Use official colors (#FFD700 gold), logo from `/assets/logo.png`, and promote verified URL:  
-  `https://BangaloreFashionWeek.in/Coin`
+  `https://BFW.com.co`
 
 ### 🎥 2. Short Videos / Motion Graphics
 - Use content related to:
